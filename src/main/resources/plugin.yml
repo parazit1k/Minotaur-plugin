@@ -1,0 +1,7 @@
+name: Minotaur
+version: '${project.version}'
+main: org.paralone.minotaur.minotaur.Minotaur
+api-version: 1.16
+authors: [ Paralone ]
+description: A plugin that spawns a minotaur when it takes damage
+website: https://github.com/parazit1k
